@@ -1,0 +1,5 @@
+services:
+  phpcs:
+    build: ./phpcs
+    tty: true
+    stdin_open: true
